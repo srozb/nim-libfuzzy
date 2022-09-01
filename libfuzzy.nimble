@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "srozb"
 description   = "libfuzzy/ssdeep wrapper"
-license       = "GPL-2.0 license"
+license       = "GPL-2.0-only"
 srcDir        = "src"
 
 
